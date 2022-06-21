@@ -12,6 +12,12 @@ Vous pourrez jouer à un total de 5 jeux et sans rien installer, connectez-vous 
 
 (La fonctionnalité pour comparer les scores de tout le monde sera mise à disposition plus tard)
 
+Les jeux avec un score personnel:
+ - HexGL
+ - Clumsy Bird
+ - Hextris
+ - Tower Game
+
 
 Si le site se trouve être inaccessible envoyer un mail à Olivier CLAVIER a son courriel :
 -   clavier.olivier@stcharles.fr
